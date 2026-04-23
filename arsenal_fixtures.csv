@@ -1,0 +1,65 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes
+2025-08-17,16:30 (11:30),Premier League,Matchweek 1,Sun,Away,W,1,0,Manchester Utd,39,73475,Martin Ødegaard,4-3-3,3-4-3,Simon Hooper,Match Report,
+2025-08-23,17:30 (12:30),Premier League,Matchweek 2,Sat,Home,W,5,0,Leeds United,68,60110,Martin Ødegaard,4-3-3,4-3-3,Jarred Gillett,Match Report,
+2025-08-31,16:30 (11:30),Premier League,Matchweek 3,Sun,Away,L,0,1,Liverpool,47,60455,Gabriel Magalhães,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,
+2025-09-13,12:30 (07:30),Premier League,Matchweek 4,Sat,Home,W,3,0,Nottingham Forest,54,60167,Martin Ødegaard,4-3-3,4-2-3-1,Darren England,Match Report,
+2025-09-16,18:45 (12:45),Champions Lg,League phase,Tue,Away,W,2,0,es Athletic Club,62,51059,Gabriel Magalhães,4-3-3,4-2-3-1,Donatas Rumšas,Match Report,
+2025-09-21,16:30 (11:30),Premier League,Matchweek 5,Sun,Home,D,1,1,Manchester City,67,60161,Gabriel Magalhães,4-3-3,4-1-4-1,Stuart Attwell,Match Report,
+2025-09-24,20:00 (15:00),EFL Cup,Third round,Wed,Away,W,2,0,Port Vale,81,16326,Bukayo Saka,4-3-3,3-5-2,Andrew Kitchen,Match Report,
+2025-09-28,16:30 (11:30),Premier League,Matchweek 6,Sun,Away,W,2,1,Newcastle United,64,52199,Bukayo Saka,4-2-3-1,4-3-3,Jarred Gillett,Match Report,
+2025-10-01,20:00 (15:00),Champions Lg,League phase,Wed,Home,W,2,0,gr Olympiacos,61,56820,Martin Ødegaard,4-3-3,4-2-3-1,François Letexier,Match Report,
+2025-10-04,15:00 (10:00),Premier League,Matchweek 7,Sat,Home,W,2,0,West Ham United,68,60181,Martin Ødegaard,4-3-3,4-1-4-1,John Brooks,Match Report,
+2025-10-18,17:30 (12:30),Premier League,Matchweek 8,Sat,Away,W,1,0,Fulham,63,27736,Bukayo Saka,4-3-3,4-2-3-1,Anthony Taylor,Match Report,
+2025-10-21,20:00 (15:00),Champions Lg,League phase,Tue,Home,W,4,0,es Atlético Madrid,51,59200,Bukayo Saka,4-2-3-1,4-4-2,Davide Massa,Match Report,
+2025-10-26,14:00 (10:00),Premier League,Matchweek 9,Sun,Home,W,1,0,Crystal Palace,60,60103,Bukayo Saka,4-3-3,3-4-3,Thomas Bramall,Match Report,
+2025-10-29,19:45 (15:45),EFL Cup,Fourth round,Wed,Home,W,2,0,Brighton,50,59292,Mikel Merino,4-3-3,5-4-1,Samuel Barrott,Match Report,
+2025-11-01,15:00 (11:00),Premier League,Matchweek 10,Sat,Away,W,2,0,Burnley,54,21538,Bukayo Saka,4-3-3,5-4-1,Chris Kavanagh,Match Report,
+2025-11-04,18:45 (12:45),Champions Lg,League phase,Tue,Away,W,3,0,cz Slavia Prague,57,19222,Bukayo Saka,4-3-3,3-4-3,Əliyar Ağayev,Match Report,
+2025-11-08,17:30 (12:30),Premier League,Matchweek 11,Sat,Away,D,2,2,Sunderland,65,46799,Bukayo Saka,4-2-3-1,5-4-1,Craig Pawson,Match Report,
+2025-11-23,16:30 (11:30),Premier League,Matchweek 12,Sun,Home,W,4,1,Tottenham Hotspur,57,60345,Bukayo Saka,4-2-3-1,3-4-3,Michael Oliver,Match Report,
+2025-11-26,20:00 (15:00),Champions Lg,League phase,Wed,Home,W,3,1,de Bayern Munich,40,58780,Bukayo Saka,4-3-3,4-2-3-1,Marco Guida,Match Report,
+2025-11-30,16:30 (11:30),Premier League,Matchweek 13,Sun,Away,D,1,1,Chelsea,62,39820,Bukayo Saka,4-3-3,4-2-3-1,Anthony Taylor,Match Report,
+2025-12-03,19:30 (14:30),Premier League,Matchweek 14,Wed,Home,W,2,0,Brentford,62,60110,Martin Ødegaard,4-3-3,5-3-2,Tony Harrington,Match Report,
+2025-12-06,12:30 (07:30),Premier League,Matchweek 15,Sat,Away,L,1,2,Aston Villa,53,42888,Martin Ødegaard,4-3-3,4-2-3-1,Peter Bankes,Match Report,
+2025-12-10,21:00 (15:00),Champions Lg,League phase,Wed,Away,W,3,0,be Club Brugge,51,26464,Martin Ødegaard,4-3-3,4-2-3-1,Sven Jablonski,Match Report,
+2025-12-13,20:00 (15:00),Premier League,Matchweek 16,Sat,Home,W,2,1,Wolves,69,60242,Bukayo Saka,4-3-3,3-5-2,Robert Jones,Match Report,
+2025-12-20,20:00 (15:00),Premier League,Matchweek 17,Sat,Away,W,1,0,Everton,65,52513,Martin Ødegaard,4-3-3,4-2-3-1,Samuel Barrott,Match Report,
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes
+2025-12-23,20:00 (15:00),EFL Cup,Quarter-finals,Tue,Home,D,1 (8),1 (7),Crystal Palace,69,51301,Mikel Merino,4-3-3,3-4-3,Stuart Attwell,Match Report,Arsenal won on penalty kicks following normal time
+2025-12-27,15:00 (10:00),Premier League,Matchweek 18,Sat,Home,W,2,1,Brighton,53,60209,Martin Ødegaard,4-3-3,3-4-3,John Brooks,Match Report,
+2025-12-30,20:15 (15:15),Premier League,Matchweek 19,Tue,Home,W,4,1,Aston Villa,47,60279,Martin Ødegaard,4-3-3,4-2-3-1,Darren England,Match Report,
+2026-01-03,17:30 (12:30),Premier League,Matchweek 20,Sat,Away,W,3,2,Bournemouth,57,11240,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,
+2026-01-08,20:00 (15:00),Premier League,Matchweek 21,Thu,Home,D,0,0,Liverpool,48,60258,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,
+2026-01-11,14:00 (09:00),FA Cup,Third round proper,Sun,Away,W,4,1,Portsmouth,61,20611,Mikel Merino,4-3-3,4-2-3-1,Tony Harrington,Match Report,
+2026-01-14,20:00 (15:00),EFL Cup,Semi-finals,Wed,Away,W,3,2,Chelsea,42,39243,Martin Ødegaard,4-3-3,4-2-3-1,Simon Hooper,Match Report,Leg 1 of 2
+2026-01-17,17:30 (12:30),Premier League,Matchweek 22,Sat,Away,D,0,0,Nottingham Forest,61,30729,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,
+2026-01-20,21:00 (15:00),Champions Lg,League phase,Tue,Away,W,3,1,it Inter,49,72649,Bukayo Saka,4-3-3,3-5-2,João Pinheiro,Match Report,
+2026-01-25,16:30 (11:30),Premier League,Matchweek 23,Sun,Home,L,2,3,Manchester Utd,57,60296,Martin Ødegaard,4-3-3,4-2-3-1,Craig Pawson,Match Report,
+2026-01-28,20:00 (15:00),Champions Lg,League phase,Wed,Home,W,3,2,kz FC Kairat,66,50200,Ben White,4-3-3,3-4-3,Urs Schnyder,Match Report,
+2026-01-31,15:00 (10:00),Premier League,Matchweek 24,Sat,Away,W,4,0,Leeds United,51,36858,Gabriel Magalhães,4-2-3-1,3-4-3,Stuart Attwell,Match Report,
+2026-02-03,20:00 (15:00),EFL Cup,Semi-finals,Tue,Home,W,1,0,Chelsea,44,59452,Gabriel Magalhães,4-3-3,3-5-2,Peter Bankes,Match Report,Leg 2 of 2; Arsenal won
+2026-02-07,15:00 (10:00),Premier League,Matchweek 25,Sat,Home,W,3,0,Sunderland,50,60312,Gabriel Magalhães,4-3-3,4-2-3-1,Samuel Barrott,Match Report,
+2026-02-12,20:00 (15:00),Premier League,Matchweek 26,Thu,Away,D,1,1,Brentford,60,17224,Gabriel Magalhães,4-2-3-1,4-2-3-1,John Brooks,Match Report,
+2026-02-15,16:30 (11:30),FA Cup,Fourth round proper,Sun,Home,W,4,0,Wigan Athletic,73,59996,Bukayo Saka,4-2-3-1,3-4-3,Tim Robinson,Match Report,
+2026-02-18,20:00 (15:00),Premier League,Matchweek 31,Wed,Away,D,2,2,Wolves,58,29843,Bukayo Saka,4-2-3-1,3-4-3,Paul Tierney,Match Report,
+2026-02-22,16:30 (11:30),Premier League,Matchweek 27,Sun,Away,W,4,1,Tottenham Hotspur,61,61439,Bukayo Saka,4-2-3-1,3-5-2,Peter Bankes,Match Report,
+2026-03-01,16:30 (11:30),Premier League,Matchweek 28,Sun,Home,W,2,1,Chelsea,41,60296,Bukayo Saka,4-2-3-1,4-3-3,Darren England,Match Report,
+2026-03-04,19:30 (14:30),Premier League,Matchweek 29,Wed,Away,W,1,0,Brighton,40,31575,Bukayo Saka,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,
+2026-03-07,12:15 (07:15),FA Cup,Fifth round proper,Sat,Away,W,2,1,Mansfield Town,67,9260,Gabriel Jesus,3-5-1-1,3-5-2,Thomas Bramall,Match Report,
+2026-03-11,18:45 (13:45),Champions Lg,Round of 16,Wed,Away,D,1,1,de Leverkusen,55,30210,Bukayo Saka,4-2-3-1,3-4-3,Halil Umut Meler,Match Report,Leg 1 of 2
+2026-03-14,17:30 (13:30),Premier League,Matchweek 30,Sat,Home,W,2,0,Everton,65,60176,Bukayo Saka,4-2-3-1,4-2-3-1,Andy Madley,Match Report,
+2026-03-17,20:00 (16:00),Champions Lg,Round of 16,Tue,Home,W,2,0,de Leverkusen,42,57537,Bukayo Saka,4-2-3-1,3-4-3,Danny Makkelie,Match Report,Leg 2 of 2; Arsenal won
+2026-03-22,16:30 (12:30),EFL Cup,Final,Sun,Neutral,L,0,2,Manchester City,38,88486,Bukayo Saka,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes
+2026-04-04,20:00 (15:00),FA Cup,Quarter-finals,Sat,Away,L,1,2,Southampton,64,31067,Martin Ødegaard,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,
+2026-04-07,20:00 (15:00),Champions Lg,Quarter-finals,Tue,Away,W,1,0,pt Sporting CP,56,50804,Martin Ødegaard,4-3-3,4-2-3-1,Daniel Siebert,Match Report,Leg 1 of 2
+2026-04-11,12:30 (07:30),Premier League,Matchweek 32,Sat,Home,L,1,2,Bournemouth,53,60210,Declan Rice,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,
+2026-04-15,20:00 (15:00),Champions Lg,Quarter-finals,Wed,Home,D,0,0,pt Sporting CP,50,58249,Declan Rice,4-2-3-1,4-2-3-1,François Letexier,Match Report,Leg 2 of 2; Arsenal won
+2026-04-19,16:30 (11:30),Premier League,Matchweek 33,Sun,Away,L,1,2,Manchester City,41,52523,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,
+2026-04-25,17:30 (12:30),Premier League,Matchweek 34,Sat,Home,,,,Newcastle United,,,,,,,Head-to-Head,
+2026-04-29,21:00 (15:00),Champions Lg,Semi-finals,Wed,Away,,,,es Atlético Madrid,,,,,,,Head-to-Head,Leg 1 of 2
+2026-05-02,17:30 (12:30),Premier League,Matchweek 35,Sat,Home,,,,Fulham,,,,,,,Head-to-Head,
+2026-05-05,20:00 (15:00),Champions Lg,Semi-finals,Tue,Home,,,,es Atlético Madrid,,,,,,,Head-to-Head,Leg 2 of 2
+2026-05-10,16:30 (11:30),Premier League,Matchweek 36,Sun,Away,,,,West Ham United,,,,,,,Head-to-Head,
+2026-05-17,15:00 (10:00),Premier League,Matchweek 37,Sun,Home,,,,Burnley,,,,,,,Head-to-Head,
+2026-05-24,16:00 (11:00),Premier League,Matchweek 38,Sun,Away,,,,Crystal Palace,,,,,,,Head-to-Head,
