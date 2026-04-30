@@ -1,0 +1,6 @@
+seleniumbase
+pandas
+beautifulsoup4
+lxml
+html5lib
+psycopg2
